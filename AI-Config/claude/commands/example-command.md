@@ -6,7 +6,7 @@ A template for saving Claude commands and workflows.
 
 **Name:** Example Command
 **Category:** General/Coding/Writing/Analysis
-**Last Updated:** 2025-11-03
+**Last Updated:** YYYY-MM-DD
 
 ## Command Text
 

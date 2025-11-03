@@ -36,6 +36,7 @@ This repository serves as a structured storage location for:
 ### Managing AI Configurations
 
 Store your AI-related files in the `AI-Config/` directory:
+
 - Custom agent definitions in `AI-Config/claude/agents/`
 - Saved commands in `AI-Config/claude/commands/`
 - Reusable prompts in `AI-Config/prompts/`
